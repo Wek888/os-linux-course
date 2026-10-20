@@ -21,4 +21,5 @@
 * scripts - Скрипты для переноса конфигов и настроек системы
 
 ## Домашние задания
-* [ПРАКТИЧЕСКАЯ РАБОТА № 1](https://github.com/Wek888/os-linux-course/edit/main/labs/lab01)
+* [ПРАКТИЧЕСКАЯ РАБОТА № 1](https://github.com/Wek888/os-linux-course/labs/lab01)
+* [ПРОВЕРОЧНАЯ ПО FHS](https://github.com/Wek888/os-linux-course/homeworks/FHS)
