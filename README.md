@@ -23,3 +23,4 @@
 ## Домашние задания
 * [ПРАКТИЧЕСКАЯ РАБОТА № 1](https://github.com/Wek888/os-linux-course/labs/lab01)
 * [ПРОВЕРОЧНАЯ ПО FHS](https://github.com/Wek888/os-linux-course/homeworks/FHS)
+* [Домашнее_задание_GitHub_репозиторий](none)
